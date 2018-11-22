@@ -1,4 +1,5 @@
 
+chapter1.3
 ---
 Time after time, during the Civil War, Lincoln put a new general at the head of the Army of the Potomac, and each one in turn—McClellan, Pope, Burnside, Hooker, Meade—blundered tragically and drove Lincoln to pacing the floor in despair.
 
@@ -144,4 +145,3 @@ When dealing with people, let us remember we are not dealing with creatures of l
 
 We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.
 
-<br>

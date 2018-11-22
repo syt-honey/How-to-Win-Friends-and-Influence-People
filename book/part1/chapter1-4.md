@@ -1,4 +1,5 @@
 
+chapter1.4
 ---
 Bitter criticism caused the sensitive Thomas Hardy, one of the finest novelists ever to enrich English literature, to give up forever the writing of fiction.
 
@@ -166,4 +167,3 @@ Why should you and I?
 
 Principle 1—Don't criticize, condemnor complain.
 
-<br>

@@ -1,4 +1,5 @@
 
+chapter1.2
 ---
 You will find examples of the futility of criticism bristling on a thousand pages of history, Take, for example, the famous quarrel between Theodore Roosevelt and President Taft—a quarrel that split the Republican party, put Woodrow Wilson in the White House, and wrote bold, luminous lines across the First World War and altered the flow of history.
 
@@ -131,5 +132,3 @@ Never again did he write an insulting letter.
 Never again did he ridicule anyone.
 
 And from that time on, he almost never criticized anybody for anything.
-
-<br>
