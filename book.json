@@ -1,40 +1,42 @@
 {
   "output": null,
-    "generator": "site",
-      "author": "Honeysyt",
-        "title": "How to Win Friends and Inflence People",
-          "description": "This is an original book of Dale Carnegie, which named 'How to Win Friends and Influence People'.",
-            "extension": null,
-              "plugins": [
-                "include-codeblock",
-                "ace"
-              ],
-                "template": "ace",
-                  "unindent": true,
-                    "edit": true,
-                      "pluginsConfig": { },
-  "variables": { },
+  "generator": "site",
+  "author": "Honeysyt",
+  "title": "How to Win Friends and Inflence People",
+  "description": "This is an original book of Dale Carnegie, which named 'How to Win Friends and Influence People'.",
+  "extension": null,
+  "plugins": [
+    "include-codeblock",
+    "ace"
+  ],
+  "template": "ace",
+  "unindent": true,
+  "edit": true,
+  "pluginsConfig": {},
+  "variables": {},
   "links": {
-    "sidebar": { },
+    "sidebar": {
+      "Have problems? Issues, give it to me~": "https://github.com/syt-honey/How-to-Win-Friends-and-Influence-People/issues"
+    },
     "sharing": {
       "google": null,
-        "facebook": null,
-          "twitter": null,
-            "weibo": null,
-              "all": null
+      "facebook": null,
+      "twitter": null,
+      "weibo": null,
+      "all": null
     }
   },
   "pdf": {
     "pageNumbers": false,
-      "fontSize": 12,
-        "paperSize": "a4",
-          "margin": {
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": {
       "right": 62,
-        "left": 62,
-          "top": 36,
-            "bottom": 36
+      "left": 62,
+      "top": 36,
+      "bottom": 36
     },
     "headerTemplate": null,
-      "footerTemplate": null
+    "footerTemplate": null
   }
 }
