@@ -1,1 +1,0 @@
-# If You Want to Gather Over Honey, Don't Kick Over the Beehive

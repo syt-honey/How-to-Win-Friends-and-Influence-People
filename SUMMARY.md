@@ -10,4 +10,6 @@
     * [Handout1.3](handouts/part1/chapter1-3.md)
   * [Chapter1.4](book/part1/chapter1-4.md)
     * [Handout1.4](handouts/part1/chapter1-4.md)
-    
+* [The Big Secret of Dealing with People](book/part2/README.md)
+  * [Chapter2.1](book/part2/chapter2-1.md)
+    * [Handout2.1](handouts/part2/chapter2-1.md)
