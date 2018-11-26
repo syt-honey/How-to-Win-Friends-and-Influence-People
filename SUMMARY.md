@@ -13,3 +13,5 @@
 * [The Big Secret of Dealing with People](book/part2/README.md)
   * [Chapter2.1](book/part2/chapter2-1.md)
     * [Handout2.1](handouts/part2/chapter2-1.md)
+  * [Chapter2.2](book/part2/chapter2-2.md)
+    * [Handout2.2](handouts/part2/chapter2-2.md)
