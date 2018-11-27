@@ -15,3 +15,5 @@
     * [Handout2.1](handouts/part2/chapter2-1.md)
   * [Chapter2.2](book/part2/chapter2-2.md)
     * [Handout2.2](handouts/part2/chapter2-2.md)
+  * [Chapter2.3](book/part2/chapter2-3.md)
+    * [Handout2.3](handouts/part2/chapter2-3.md)
