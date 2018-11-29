@@ -19,3 +19,6 @@
     * [Handout2.3](handouts/part2/chapter2-3.md)
   * [Chapter2.4](book/part2/chapter2-4.md)
     * [Handout2.4](handouts/part2/chapter2-4.md)
+* [He Who Can Do This Has the Whole World with Him](book/part3/README.md)
+  * [Chapter3.1](book/part3/chapter3-1.md)
+    * [Handout3.1](handouts/part3/chapter3-1.md)
