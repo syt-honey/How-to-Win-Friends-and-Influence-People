@@ -22,3 +22,5 @@
 * [He Who Can Do This Has the Whole World with Him](book/part3/README.md)
   * [Chapter3.1](book/part3/chapter3-1.md)
     * [Handout3.1](handouts/part3/chapter3-1.md)
+  * [Chapter3.2](book/part3/chapter3-2.md)
+    * [Handout3.2](handouts/part3/chapter3-2.md)
