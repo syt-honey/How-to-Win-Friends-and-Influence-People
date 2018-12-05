@@ -1,10 +1,6 @@
 
 chapter3.2--handout
 ---
-
-<br>
-
----
 Background Information
 
 ### salesman

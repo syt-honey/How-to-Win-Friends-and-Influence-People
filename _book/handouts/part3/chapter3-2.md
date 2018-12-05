@@ -1,10 +1,6 @@
 
 chapter3.2--handout
 ---
-
-<br>
-
----
 Background Information
 
 ### salesman
@@ -61,13 +57,13 @@ Vocabulary
 ---
 Crush Your Problems
 
-1.An argument would have begun to steam and boil and sputter - and you know how arguments end.  
+1. An argument would have begun to steam and boil and sputter - and you know how arguments end.  
 争吵会由小变大，从温和到剧烈，你也知道争吵的结局了吧（毫无意义）。  
 💧steam 动词，蒸，冒水汽；boil 动词，煮沸；sputter 动词，发出噼啪声  
 那么这三个词正好构成了水烧开过程中的循序渐进的三种状态，比喻争吵就像是这样，一开始双方酝酿怒意，然后爆发矛盾，最后吵得不可开交。  
 💧you know how arguments end 这句话的意思就是说，水最终其实都会变凉的，争吵也是一样，没有意义的。  
 ![C-1](\images\handouts\part3\chapter3-2\C-1.jpg)  
-2.Here is one of the best bits of advice ever given about the fine art of human relationships.  
+2. Here is one of the best bits of advice ever given about the fine art of human relationships.  
 有一个关于人际关系艺术处理的最好的建议。  
 💧大家有没有看出来，这是一个Here is 开头引导的倒装句，正常语序应该是:  
 one of the best bits of advice ever given about the fine art of human relationships is here.  

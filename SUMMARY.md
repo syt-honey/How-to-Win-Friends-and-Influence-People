@@ -24,3 +24,5 @@
     * [Handout3.1](handouts/part3/chapter3-1.md)
   * [Chapter3.2](book/part3/chapter3-2.md)
     * [Handout3.2](handouts/part3/chapter3-2.md)
+  * [Chapter3.3](book/part3/chapter3-3.md)
+    * [Handout3.3](handouts/part3/chapter3-3.md)
