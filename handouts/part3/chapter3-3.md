@@ -12,9 +12,6 @@ Background Information
 
 荷兰皇家壳牌设在美国的跨国石油公司，世界最大的石油公司之一。壳牌石油公司，包括它的联合公司和它控股的股份公司是美国最大的石油和天然气生产商、天然气销售商、汽油销售商和石油化工生产商。  
 
-![B-1](\images\handouts\part3\chapter3-3\B-1.jpg)  
-
-
 ### Virgil (or Vergil) 维吉尔
 
 奥古斯都时代的古罗马诗人。其作品有《牧歌集》（Eclogues）、《农事诗》（Georgics）、史诗《埃涅阿斯纪》（Aeneid）三部杰作。  
