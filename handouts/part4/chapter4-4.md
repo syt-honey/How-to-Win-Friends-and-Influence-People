@@ -104,7 +104,7 @@ eg:Joy welled up in his heart.
 e.g.I still get racked with self-doubt and nerves-but I know when I am in that situation I have to accept that feeling as it produces the best from me.  
 不自信和紧张的情绪依然折磨着我──但我知道当我置身于这种处境时，我必须要接受这种感觉，因为它会激发出最强大的我。  
 ![C-2](\images\handouts\part4\chapter4-4\C-2.jpg)  
-3.She talked to me and tried to calm my fears.  
+3. She talked to me and tried to calm my fears.  
 💧calm fear平复恐惧  
 e.g.Kind self-talk is an incredibly effective way to calm fear and motivate action.  
 亲切的自我交谈是一个能平静恐惧心、激励行动的极有效的方法。  
