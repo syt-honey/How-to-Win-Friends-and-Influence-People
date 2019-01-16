@@ -42,3 +42,8 @@
     * [Handout5.1](handouts/part5/chapter5-1.md)
   * [Chapter5.2](book/part5/chapter5-2.md)
     * [Handout5.2](handouts/part5/chapter5-2.md)
+* [If You Don't Do This, You Are Headed for Trouble](book/part6/README.md)
+  * [Chapter6.1](book/part6/chapter6-1.md)
+    * [Handout6.1](handouts/part6/chapter6-1.md)
+  * [Chapter6.2](book/part6/chapter6-2.md)
+    * [Handout6.2](handouts/part6/chapter6-2.md)
