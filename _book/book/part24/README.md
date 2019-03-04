@@ -1,0 +1,1 @@
+# Talk About Your Own Mistakes First
