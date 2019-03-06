@@ -8,4 +8,4 @@ Here are a few points to pay attention to in reading this book:
 2. All the contents of the book come from the courses I attended.(DiDa Reading)
 3. I will update this content on a regular basis,if there are any problems can be sent to me issues.
 
-Finally, Enjoy your reading time~
+Finally, enjoy your reading time~
