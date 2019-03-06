@@ -82,8 +82,6 @@ v. prove superior
 💧Kelly had stuck with difficult tasks and challenges, and triumphed.  
 凯莉顶着艰巨的任务和挑战坚持下去，并取得了胜利。  
 
-![V-3](\images\handouts\part10\chapter10-1\V-3.jpg)  
-
 <br>
 
 ---
@@ -92,7 +90,6 @@ Crush Your Problems
 1. He stuck to his guns.  
 这句话乍一看字面意思很可能理解为 “他黏住了他的枪”，放在上下文中却说不通。  
 💧其实这里用了一个地道的俚语表达方式 “stick to one's guns”，意思是“坚持自己的想法或立场，不管别人怎么说”。从字面意思也可以猜到，这个短语的来源跟战争有关。战场上，当敌人冲上来的时候，士兵们的责任就是要握紧自己的枪，坚守阵地。后来，这个短语便用到了日常生活之中。  
-
 我们来看例句：  
 💧E.g. David's family were against him becoming an actor but he stuck to his guns.  
 大卫的家人反对他当演员，但是他坚持要当。  
