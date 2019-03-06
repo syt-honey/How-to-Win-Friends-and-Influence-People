@@ -76,8 +76,6 @@ Vocabulary
 💧It was Allen who fired this rivalry with real passion.  
 是艾伦满怀激情地激发了这次对抗。  
 
-![V-2](\images\handouts\part7\chapter7-3\V-2.jpg)  
-
 
 ### genial
 
@@ -159,11 +157,11 @@ Columbia Blue，哥大蓝，可以说是哥大最具代表性的颜色了，大�
 
 毕业典礼的时候学校还贴心给你准备气球，满足你的少男少女心，也是挺可爱的。  
 
-![T-1](\images\handouts\part7\chapter7-3\T-1.gif)  
+![T-1](\images\handouts\part7\chapter7-3\T-1.jpg)  
 
 偶遇一个毕业生给自己的娃定做了一身哥大毕业服，引来了好多人侧目，当时就觉得，这个毕业生以及他的孩子，都是人生赢家了。  
 
-![T-2](\images\handouts\part7\chapter7-3\T-2.gif)  
+![T-2](\images\handouts\part7\chapter7-3\T-2.jpg)  
 
 💧Pulitzer Prizes  
 
@@ -171,13 +169,13 @@ Columbia Blue，哥大蓝，可以说是哥大最具代表性的颜色了，大�
 
 1903年，普利策写下遗嘱，决定出资兴办哥伦比亚新闻学院和建立普利策奖金，由哥伦比亚大学董事会掌管他遗赠的基金。1911年10月29日普利策逝世。根据他的遗嘱，1912年开办了哥伦比亚新闻学院，1917年起设立了普利策奖。至今，一年一度的普利策奖还是在哥大举办。也就是说，每年5月份的时候，普利策奖都会由哥大的校长来颁发。  
 
-![T-3](\images\handouts\part7\chapter7-3\T-3.gif)  
+![T-3](\images\handouts\part7\chapter7-3\T-3.jpg)  
 
 💧The Scholar Lion  
 
 这头狮子是新时代的哥大的吉祥物，叫做“学者狮”，这是当年哥大的一位校友赠送给学校的。正如哥伦比亚大学盾形徽章是皇冠（王者风）与狮子（万兽之王）的结合，寓意着哥伦比亚大学强烈的教育进取心，在自由学风下，培育出各行各业多才多艺的领导人。校友赠送母校铜狮子，其寓意也在于此吧？  
 
-![T-4](\images\handouts\part7\chapter7-3\T-4.gif)  
+![T-4](\images\handouts\part7\chapter7-3\T-4.jpg)  
 
 💧Alma mater和她的猫头鹰  
 
@@ -185,21 +183,21 @@ Alma mater，是去哥大参观的游客必须要照相的景点之一，大多�
 
 据说铜像里面藏着一只猫头鹰，每年本科新生第一位发现猫头鹰的将在毕业典礼上代表所有学生发表演说。当哥大还只招男生时，据说谁能找到那只猫头鹰谁就能娶伯纳德女子学院（隔一条街）的女生。该雕塑作者是Daniel Chester French，他也是美国首都华盛顿特区林肯纪念堂林肯塑像的作者。  
 
-![T-5](\images\handouts\part7\chapter7-3\T-5.gif)  
+![T-5](\images\handouts\part7\chapter7-3\T-5.jpg)  
 
 灯火通明的butler图书馆，就在女神的正对面，这是期末考试期间的景象，其实我想说当年出现的凌晨4点的哈佛大学图书馆的景象，在美国top100的学校里，都会出现的。图书馆里的景象就非常有意思了，有很焦虑的，忽然哭起来的，也有趴着睡着的，醒来一脸生无可恋的，总之，这是一个隐藏着大家血与泪的地方啊。  
 
-![T-6](\images\handouts\part7\chapter7-3\T-6.gif)  
+![T-6](\images\handouts\part7\chapter7-3\T-6.jpg)  
 
 💧帝国大厦的灯光  
 
 帝国大厦最顶层的灯光，不是随意会变颜色的，只有当国家遇到了什么节日，或者灾难纪念日，又或者是纽约州的球队（棒球、篮球、橄榄球）赢了的时候，帝国大厦顶层的灯光会随着这些队伍或者节日的代表色而变成那种颜色。然而，它每年5月中旬的时候，会因为哥大学生的毕业，而为哥大的学生们亮一次蓝色的灯光，它也会为以紫色为代表色的纽约大学亮一次灯，毕竟，这也算是纽约市里一年中发的大事儿了。  
 
-![T-7](\images\handouts\part7\chapter7-3\T-7.gif)  
+![T-7](\images\handouts\part7\chapter7-3\T-7.jpg)  
 
 下雪的时候，学校的大门口总是很美（也很冷），这就是哥大在百老汇大道上的大门。  
 
-![T-8](\images\handouts\part7\chapter7-3\T-8.gif)  
+![T-8](\images\handouts\part7\chapter7-3\T-8.jpg)  
 
 总之，作为在哥大上过学的教研团队（我们能活着顺利毕业好不容易），再看到自己手机中拍的图片的时候还是会又万分感慨，虽然很忙很累，但是觉得一切都是值得的。  
 
