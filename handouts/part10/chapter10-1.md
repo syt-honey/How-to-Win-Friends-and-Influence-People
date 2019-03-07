@@ -23,7 +23,7 @@ Union Jack.
 EA为公司名，US为生产地美国，而Uncle Samuel（山姆大叔）的缩写恰好也是U.S.，于是在一次玩笑中，山姆大叔的说法很快传开，其后成为了美国的绰号。美国人将“山姆大叔”诚实可靠、吃苦耐劳及爱国主义精神视为自己公民的骄傲和共有的品质。  
 
 
-###  Marcus Tullius Cicero(马库斯·图利乌斯·西塞罗)
+### Marcus Tullius Cicero(马库斯·图利乌斯·西塞罗)
 
 ![B-3](\images\handouts\part10\chapter10-1\B-3.jpg)  
 
