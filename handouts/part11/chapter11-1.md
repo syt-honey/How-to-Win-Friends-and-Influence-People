@@ -5,7 +5,7 @@ Background Information
 
 ### Immanuel Kant(伊曼努尔·康德)
 
-![B-1](\images\handouts\part11\chapter11-1\B-1.jpg)
+![B-1](\images\handouts\part11\chapter11-1\B-1.jpg)  
 今天的文章中提到了一位著名的思想家，德国古典哲学创始人——康德。他是启蒙运动时期最后一位主要哲学家，是德国思想界的代表人物，其核心的三大著作被合称为“三大批判”，即《纯粹理性批判》、《实践理性批判》和《判断力批判》，这三部作品有系统地分别阐述他的知识学、伦理学和美学思想。  
 
 可能很多人不知道，这样一位影响全世界知道今日的伟人，从不曾走出过自己的家乡——格尼斯堡。有人说：“康德所有的伟大历险都发生在他的头脑中。”  
@@ -20,7 +20,7 @@ Background Information
 
 ### Alexander Pope(亚历山大·蒲柏)
 
-![B-2](\images\handouts\part11\chapter11-1\B-2.jpg)
+![B-2](\images\handouts\part11\chapter11-1\B-2.jpg)  
 1688出生于伦敦，是18世纪英国最伟大的诗人，杰出的启蒙主义者。他推动英国新古典主义文学发展。蒲柏从12岁开始便发表了很多诗作，并在斯威夫特的鼓励下用十三年功夫翻译了古希腊史诗《伊利亚特》（Iliad）与《奥德赛》（Odýsseia）。他并没有准确地进行翻译，而是根据当时英国时代精神进行再创作，他说如果荷马生活在18世纪的英国，也一定会写作这两部史诗。  
 
 蒲柏自己的作品也非常优美，蕴含哲理。他在《论人》（An Essay on Man）中写到：  
@@ -45,11 +45,11 @@ Nature and nature's laws lay hid in night; God said "Let Newton be" and all was 
 ![B-5](\images\handouts\part11\chapter11-1\B-5.jpg)
 
 各种宣传片也都十足的电影大片既视感！  
-![B-6](\images\handouts\part11\chapter11-1\B-6.gif)
+![B-6](\images\handouts\part11\chapter11-1\B-6.gif)  
 
 ### James Harvey Robinson(詹姆斯·哈威·鲁滨逊)
 
-![B-7](\images\handouts\part11\chapter11-1\B-7.jpg)
+![B-7](\images\handouts\part11\chapter11-1\B-7.jpg)  
 詹姆斯·哈威·鲁滨逊是美国历史学家，20世纪初美国“新史学派”的奠基人和倡导者。主要著作有《西欧史》，《欧洲通史》等。《新史学》（The New History）是他多年来相关论文和演说的汇编。  
 
 五四运动时期，中国史坛中的西方史学，要数鲁滨逊“新史学派”最受人欢迎。《新史学》在五四前后学人间流传甚广，尤其大批留学欧美的知识分子归国执教于各地大学，其中不少人出自这一学派门下，纷纷采用鲁滨逊新史学派编著的教材，积极传播该派的学说，对民国时期史学理论和史学学科建设产生了深刻影响。  
