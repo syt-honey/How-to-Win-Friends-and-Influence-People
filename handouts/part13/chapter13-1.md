@@ -55,7 +55,7 @@ And God was good to me everyday.
 伊索讲寓言故事全凭记忆，没有所谓的草稿，故事的主角多是动物之间的互动，如鹰与夜莺、龟和兔、蚂蚁和蚱蜢，巴勒隆的哲学家台美忒利阿斯（Demetrios Phalereus）编写了世界上第一部《伊索寓言》（Aesop's Fables）.  
 
 ![B-9](\images\handouts\part13\chapter13-1\B-9.jpg)  
-所以，我们从小就读的《伊索寓言》不是伊索本人亲自写的哦~
+所以，我们从小就读的《伊索寓言》不是伊索本人亲自写的哦~  
 
 
 <br>
@@ -65,27 +65,27 @@ Vocabulary
 
 ### belligerent
 
-💧adj.characteristic of an enemy or one eager to fight
-形容词：交战的；好战的
-💧[SYN] fighting；warring
-💧He could be accused of passion, but never belligerence.
+💧adj.characteristic of an enemy or one eager to fight  
+形容词：交战的；好战的  
+💧[SYN] fighting；warring  
+💧He could be accused of passion, but never belligerence.  
 可以说他很冲动，但不能说他爱挑事。  
 ![V-1](\images\handouts\part13\chapter13-1\V-1.jpg)  
 
 ### seething
 
-💧adj.in constant agitation
-形容词：火热的，沸腾的
-💧[SYN] boiling
-💧The meeting hall was seething at once.
+💧adj.in constant agitation  
+形容词：火热的，沸腾的  
+💧[SYN] boiling  
+💧The meeting hall was seething at once.  
 会场上顿时沸腾起来了。  
 ![V-2](\images\handouts\part13\chapter13-1\V-2.jpg)  
 
 ### radiant
 
-💧adj. radiating or as if radiating light
-形容词：辐射的；光芒四射的；容光焕发的
-💧Kathy smiled at her daughter's radiant face.
+💧adj. radiating or as if radiating light  
+形容词：辐射的；光芒四射的；容光焕发的  
+💧Kathy smiled at her daughter's radiant face.  
 凯茜对着女儿容光焕发的面孔微笑着。  
 ![V-3](\images\handouts\part13\chapter13-1\V-3.jpg)  
 
