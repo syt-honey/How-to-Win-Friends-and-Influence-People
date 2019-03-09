@@ -73,7 +73,7 @@ and it's a phenomenal moment in the history of the enlightenment.
 “我们不想对此像战利品一样炫耀。”  
 I was amazed to hear him trot out my suggestion as his own.  
 我很惊讶听到他把我的建议拿去炫耀。  
-![V-4](\images\handouts\part16\chapter16-1\V-4.jpg)  
+![V-3](\images\handouts\part16\chapter16-1\V-3.jpg)  
 
 <br>
 
