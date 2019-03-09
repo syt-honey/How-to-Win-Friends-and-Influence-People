@@ -209,8 +209,8 @@ Today's Bonus
 又比方说你刚从一家很棒的餐厅用完餐出来, 你可能也会叹道, “The food was incredible!"（这家的食物味道好的难以置信！）  
 ![T-3](\images\handouts\part15\chapter15-1\T-3.jpg)  
 💧不过注意一下, 别人跟你问好是不能答说"I am incredible." “我棒的让人难以置信”的喔!  
- 4. Gorgeous！  
- 好漂亮！  
+4. Gorgeous！  
+好漂亮！  
 💧Gorgeous也是用来形容“美丽、漂亮”的事物。例如参观纽约的大都会博物馆， 当逛到一个油画展示厅时，有人情不自禁地喊了一声， "Gorgeous"，你就能知道这个地方有多漂亮了。  
 在应用上我们可以视情况而决定要用pretty/beautiful或是gorgeous.  
 💧例如：形容小美女，"She's pretty."  
