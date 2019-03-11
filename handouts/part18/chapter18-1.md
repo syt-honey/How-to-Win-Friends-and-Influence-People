@@ -117,12 +117,12 @@ Sol Hurok管理艺人的方式也是这样，Sol旗下合作的歌唱家Chaliapi
 ---
 Today's Bonus
 
-今天的钢琴老师教会了我们如何引导小公主听话做事情的正确打开方式，尤其是Babette决定剪掉自己的manicured nails，真的是很棒的sympathetic method～当然，manicure这类活动相信是大部分女孩子的心头好，闲暇时候找一位Beautician做一个美美哒manicure是很放松的事情，那么今天的彩蛋就教大家一下不同样式的manicure英文该怎么说吧～    
+今天的钢琴老师教会了我们如何引导小公主听话做事情的正确打开方式，尤其是Babette决定剪掉自己的manicured nails，真的是很棒的sympathetic method～当然，manicure这类活动相信是大部分女孩子的心头好，闲暇时候找一位Beautician做一个美美哒manicure是很放松的事情，那么今天的彩蛋就教大家一下不同样式的manicure英文该怎么说吧～  
 ![T-1](\images\handouts\part18\chapter18-1\T-1.jpg)  
-1. Basic Manicure
+1. Basic Manicure  
 就是最日常的美甲方式，当你去Nail Salon的时候（美甲店，Salon就是法语词沙龙，表示各种院啊、店啊什么的，在莫奈高更的时代Salon也指上流社会social的场所；同样，美容院就是Beauty Salon，理发店就有些不一样哈，叫做Barber's，Barbershop，或者是Hairdresser's），想要说我就随意做个美甲，最常规的样式，你可以说：“I prefer a basic manicure.”  
 ![T-2](\images\handouts\part18\chapter18-1\T-2.jpg)  
-2. French manicures
+2. French manicures  
 婚礼标配——法式美甲，英文很简单就是French manicures，也可以说是 "French tips"（因为只有指头尖尖涂白色的，其他部分都透明），有些指甲不够长的妹子可以选择 artificial（人工的） nails去做French Tips的效果哈～  
 ![T-3](\images\handouts\part18\chapter18-1\T-3.jpg)  
 3. American manicure  
