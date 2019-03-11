@@ -52,7 +52,7 @@ the whisper of wind
 💧也有引申为闲话的意思：  
 whispers of a blossoming romance.  
 关于一段炽热恋情的流言飞语。  
-![V-1](\images\handouts\part20\chapter20-1\V-1.gif)  
+![V-1](\images\handouts\part20\chapter20-1\V-1.jpg)  
 
 ### malicious
 

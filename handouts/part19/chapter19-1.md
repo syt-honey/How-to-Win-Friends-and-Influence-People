@@ -17,12 +17,11 @@ Background Information
 教父意思指在婴儿或幼儿受洗礼时，赐以教名，并保证承担其宗教教育的人。天主教、东正教以及一些新教宗派(圣公会等)行洗礼时为受洗者设置的男性监护人和保护人。  
 
 在黑帮中Godfather一般是说某党派的大佬，相信看过《教父》的同学都对马龙白兰度刻画的黑手党（Maffia）首领印象深刻的哈～  
-![B-4](\images\handouts\part19\chapter19-1\B-4.jpg)  
 
 ### mortgages(按揭)
 
 “按揭”一词是英文“Mortgage”的粤语音译，最初起源于西方国家，本意属于英美平衡法体系中的一种法律关系，后于20世纪90年代从香港引入内地房地产市场，先由深圳建设银行在当地试行，之后逐渐在内地流行起来，因为在房地产领域频频出现并正式运用于文本，其含义逐渐演化成了“抵押贷款”，目前在国内已经被正式称为“个人购置商品房抵押贷款”。  
-![B-5](\images\handouts\part19\chapter19-1\B-5.jpg)  
+![B-4](\images\handouts\part19\chapter19-1\B-4.jpg)  
 
 mortgage在很多时候都会用到，最典型的是买房子的按揭，这部分的话需要先预付down payment，可以理解为定金，也就是首付一样的意思，付完down payment，之后mortgage的部分就是每个月还款啦～不然会遭到今天文章中汽车公司催款一样的事情哦～  
 
@@ -155,7 +154,7 @@ Today's Bonus
 ![T-7](\images\handouts\part19\chapter19-1\T-7.jpg)  
 ![T-8](\images\handouts\part19\chapter19-1\T-8.jpg)  
 ![T-9](\images\handouts\part19\chapter19-1\T-9.jpg)  
-2．“辅音+辅音”式：即当前一个单词的结尾辅音与后一个单词的开头辅音相同时，不用再发音两次，而是合并成一个音，同时发音延长，语音学上又称之为“叠合现象”。  
+2. “辅音+辅音”式：即当前一个单词的结尾辅音与后一个单词的开头辅音相同时，不用再发音两次，而是合并成一个音，同时发音延长，语音学上又称之为“叠合现象”。  
 bad dog d+d  
 like candy k+k  
 big girl g+g  
