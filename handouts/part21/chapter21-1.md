@@ -158,7 +158,7 @@ Schwab做了一件事情，和manager要了一支粉笔，向工厂的工人问�
 Frederic Herzberg的研究也证明，是work本身能给人最强的激励，如果工作本身就很刺激有趣，工作者就会有更强的动机。
 （If the work was exciting and interesting, the worker looked forward to doing it and was motivated to do a good job.）  
 
-![A-3](\images\handouts\part21\chapter21-1\A-3.gif )  
+![A-3](\images\handouts\part21\chapter21-1\A-3.gif)  
 
 所以，每一个成功人士想要的都是一样的东西：  
 The desire to excel. The desire for a feeling of importance.  

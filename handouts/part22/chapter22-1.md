@@ -5,7 +5,7 @@ Background Information
 
 ### Calvin Coolidge
 
-![B-1](\images\handouts\part21\chapter22-1\B-1.jpg)  
+![B-1](\images\handouts\part22\chapter22-1\B-1.jpg)  
 💧小约翰·卡尔文·柯立芝（John Calvin Coolidge, Jr.，1872年7月4日－1933年1月5日），美国第30任总统，共和党籍。佛蒙特州律师出身（Republican lawyer），在马萨诸塞州政界奋斗多年后成为州长。1920年大选时作为沃伦·哈定的竞选伙伴成功当选第29任美国副总统。1923年，哈定在任内病逝，柯立芝随即递补为总统。1924年大选连任成功。政治上主张小政府，以古典自由派保守主义闻名。  
 
 💧柯立芝在任内一扫哈定时期政治丑闻的阴霾，恢复了公众对白宫的信任，故离任时威望极高。他的传记作家这样写道：
