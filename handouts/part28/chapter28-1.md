@@ -20,13 +20,13 @@ distinguished himself by exceptionally meritorious service to the Government in 
 
 ### Baldwin Locomotive Works
 
-![B-3](\images\handouts\part28\chapter28-1\B-3.jpg)  
-The Baldwin Locomotive Works是一个美国的工厂，生产火车和铁路相关的部件（railroad locomotives）最早是在费城建立，之后搬到宾州，几十年来这个公司都是世界上最大的蒸汽火车厂商（The company was for decades the world's largest producer of steam locomotives）, 但是也一直在寻求向柴油火车转型。（but struggled to compete as demand switched to diesel locomotives.）1956年， Baldwin生产了最后一批火车，随后在1972年破产。  
 ![B-4](\images\handouts\part28\chapter28-1\B-4.jpg)  
+The Baldwin Locomotive Works是一个美国的工厂，生产火车和铁路相关的部件（railroad locomotives）最早是在费城建立，之后搬到宾州，几十年来这个公司都是世界上最大的蒸汽火车厂商（The company was for decades the world's largest producer of steam locomotives）, 但是也一直在寻求向柴油火车转型。（but struggled to compete as demand switched to diesel locomotives.）1956年， Baldwin生产了最后一批火车，随后在1972年破产。  
+![B-5](\images\handouts\part28\chapter28-1\B-5.jpg)  
 
 ### Georgette Leblanc
 
-![B-5](\images\handouts\part28\chapter28-1\B-5.jpg)  
+![B-6](\images\handouts\part28\chapter28-1\B-6.jpg)  
 Georgette Leblanc是法国女高音歌唱家（French operatic soprano）, 同时也是演员、作家，是小说家Maurice Leblanc的妹妹。  
 她刻画了Ariane的角色（Ariane et Barbe-bleue），不仅在原始的舞台上（ original 1899 stage play by Maeterlinck），还在1907改版的歌剧中（the 1907 opera adaptation by Paul Dukas），都取得了巨大的成功，同时她还参演了很多法国电影，在她人生的后几十年，她致力于写作，写出了两部商业上很成功的自传（two commercially successful autobiographies）以及一系列儿童读物（children's books）和游记（travelogues）。  
 
@@ -34,13 +34,13 @@ Georgette Leblanc是法国女高音歌唱家（French operatic soprano）, 同�
 
 都柏林（Dublin）是爱尔兰共和国的首都以及最大的城市，靠近爱尔兰岛东岸的中心点，位处都柏林郡的利菲河（River Liffey）河口、都柏林地区的中心。都柏林自中世纪以来一直是爱尔兰首都城市，也是爱尔兰岛上最大的城市。由于很多高技术企业聚集，所以有欧洲的硅谷之称。  
 Dublin这个字起源于爱尔兰语的Dubh Linn（意为“黑色池塘”）。都柏林的现代爱尔兰名Baile Átha Cliath（意为“芦苇障碍做成的浅滩之城”）则是指在黑色池塘旁边的定居地。  
-![B-6](\images\handouts\part28\chapter28-1\B-6.jpg)  
-都柏林是20世纪末和21世纪初爱尔兰经济增长奇迹的中心点，这一时期爱尔兰经济经常保持两位数的增长，被称为凯尔特之虎的年代。该市的生活水准已经有了戏剧性的增长，同时生活费用也已经暴涨。2008年，都柏林名列世界最富裕城市的第5位。根据一份资料，都柏林现在名列全球最昂贵城市的第16名（在欧洲名列第8，不包括俄罗斯城市）。它还被列为世界上生活开支第3高的城市。不过，它也是全世界工资水平第2高的城市，超过纽约市和伦敦，仅次于苏黎世。
 ![B-7](\images\handouts\part28\chapter28-1\B-7.jpg)  
-都柏林还是一个浪漫且文艺的城市，著名作家王尔德、萧伯纳都来自都柏林。  
+都柏林是20世纪末和21世纪初爱尔兰经济增长奇迹的中心点，这一时期爱尔兰经济经常保持两位数的增长，被称为凯尔特之虎的年代。该市的生活水准已经有了戏剧性的增长，同时生活费用也已经暴涨。2008年，都柏林名列世界最富裕城市的第5位。根据一份资料，都柏林现在名列全球最昂贵城市的第16名（在欧洲名列第8，不包括俄罗斯城市）。它还被列为世界上生活开支第3高的城市。不过，它也是全世界工资水平第2高的城市，超过纽约市和伦敦，仅次于苏黎世。
 ![B-8](\images\handouts\part28\chapter28-1\B-8.jpg)  
-王尔德这个怪才以他独到的思想吸引着成千上万的游客，他的墓位于法国巴黎的Père Lachaise Cemetery，虽然王尔德大大早就come out of the closet/出柜，每年都有好多年轻女性来他的墓前留下自己的红唇印以示爱慕（直男朋友们羡慕吗...），后来当地政府为了保护文物，不得不把王尔德的墓碑用玻璃圈养了起来...  
+都柏林还是一个浪漫且文艺的城市，著名作家王尔德、萧伯纳都来自都柏林。  
 ![B-9](\images\handouts\part28\chapter28-1\B-9.jpg)  
+王尔德这个怪才以他独到的思想吸引着成千上万的游客，他的墓位于法国巴黎的Père Lachaise Cemetery，虽然王尔德大大早就come out of the closet/出柜，每年都有好多年轻女性来他的墓前留下自己的红唇印以示爱慕（直男朋友们羡慕吗...），后来当地政府为了保护文物，不得不把王尔德的墓碑用玻璃圈养了起来...  
+![B-10](\images\handouts\part28\chapter28-1\B-10.jpg)  
 
 <br>
 
