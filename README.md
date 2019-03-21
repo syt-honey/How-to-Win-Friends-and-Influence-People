@@ -1,6 +1,6 @@
 # Introduction
 
-This a an original book of English that I am studying. Now I want to share it as a document with a handout for study. I hope it will help you.
+This is an original book of English that I am studying. Now I want to share it as a document with a handout for study. I hope it will help you.
 
 Here are a few points to pay attention to in reading this book:
 
